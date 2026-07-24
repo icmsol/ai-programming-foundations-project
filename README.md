@@ -13,6 +13,12 @@ This project creates a reproducible Python data workflow for California Cal ePro
 
 ## Dataset
 
+Primary data source: California Cal eProcure Event Search  
+https://caleprocure.ca.gov/pages/Events-BS3/event-search.aspx
+
+Data snapshot downloaded July 24, 2026.
+
+
 Source: California State Contracts Register through Cal eProcure  
 Official information: https://www.dgs.ca.gov/PD/Resources/Page-Content/Procurement-Division-Resources-List-Folder/Cal-eProcure-Portal-to-Access-Bid-Opportunities
 
